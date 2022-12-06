@@ -34,3 +34,6 @@ Obs: sem as chaves, no campo class_prompt e class_data_dir deve vir escrito "dog
 Quando se deparar com o bloco [7], clique para executar, este bloco irá criar uma pasta com o nome da sua token, arraste todas suas imagens redimensionadas para esta pasta:
 ![image](https://user-images.githubusercontent.com/61157010/205787000-2a7d37e1-53e9-42a4-bd7d-71eff5dd9d6a.png)
 apos isso clique no botão cancelar do bloco, e passe para o proximo.
+
+11. Ao chegar no bloco "Run for generating images." descreva a imagem que você quer no campo "prompt", lembrando que deve ser tudo em ingles, neste campo você pode fazer referencia a sua token e gerar imagens com seu rosto processado pela inteligencia artificial, seu token será a referencia as imagens que você mandou processar na pasta data.
+![image](https://user-images.githubusercontent.com/61157010/205787446-3ce7efee-0cd0-4d25-ad9c-c3c176c697df.png)
