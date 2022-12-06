@@ -18,6 +18,7 @@
 
 6.A próxima parte a ser configurada é a concepts_lists, substitua as informações colocando o nome da token criada no Hugging Face no lugar conforme o exemplo a seguir:
 ![image](https://user-images.githubusercontent.com/61157010/205785688-9538edf0-4cb4-4d5b-b9d6-0dce1ecb0827.png)
+
 Obs: sem as chaves, no campo class_prompt e class_data_dir deve vir escrito "dog", basta mudar para person.
 
 7.No campo "save_sample_prompt" coloque o nome da sua token, sem as chaves.
